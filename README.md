@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @level7up
-- 👀 I’m interested in Software engineering
+- 👀 I’m a Software engineering
 - 🌱 I’m currently learning Nodejs and Vuejs
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me Abdoleemos200@gmail.com
